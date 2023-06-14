@@ -1,0 +1,6 @@
+package com.formacionbdi.springboot.app.item.models;
+
+public class Item {
+	private Producto producto;
+	private Integer cantidad;
+}
